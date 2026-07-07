@@ -1,10 +1,10 @@
-# 🚀 GenAI Job Preparation Web App
+#  GenAI Job Preparation Web App
 
 An AI-powered full-stack web application designed to help students and job seekers prepare for interviews effectively. The platform provides resume analysis, skill gap detection, and AI-generated interview questions using modern technologies.
 
 ---
 
-## 📌 Features
+##  Features
 
 - 🤖 AI-based Resume Analysis
 - 📊 Skill Gap Detection System
@@ -37,12 +37,6 @@ An AI-powered full-stack web application designed to help students and job seeke
 - JWT Authentication
 - Puppeteer (for PDF generation)
 - RESTful APIs
-
----
-
-## 📷 Screenshots
-
-(Add your project screenshots here)
 
 ---
 
